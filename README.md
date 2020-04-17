@@ -1,7 +1,7 @@
 # Q Official Repo
-This is a list of apps for use on the [Q Music Player](https://qmusicplayer.com). 
+This is a list of **official** 3rd party apps for use on the [Q Music Player](https://qmusicplayer.com). 
 
-All apps on this list have been created by a legal entity who wish to provide their service on Q, ie. only *Foobar Ltd* can release the **official** *ofi-foobar* app. If you are the representative of such and entity and wish you app to be included, [email us](mailto:qmusicplayer@protonmail.com).
+All apps on this list have been created by a legal entity who wish to provide their service on Q, ie. only *Foobar Ltd* can release the *ofi-foobar* app. If you are the representative of such and entity and wish you app to be included, [email us](mailto:qmusicplayer@protonmail.com).
 
 The repo itself and the apps listed within are *seperate* and *optional* from the Q operating system. The repo can be installed on your Q by virtue of being listed in [q-repos-main](https://github.com/plundell/q-repos-main).
 
